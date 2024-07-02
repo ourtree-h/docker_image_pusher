@@ -7,3 +7,4 @@
 xhofe/alist:latest
 garethflowers/svn-server
 elleflorio/svn-server:latest
+python:latest
